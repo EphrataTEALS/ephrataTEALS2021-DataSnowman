@@ -1,4 +1,4 @@
-package sampleCode.Parameters;
+//package sampleCode.Parameters;
 
 import java.util.Scanner;
 

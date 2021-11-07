@@ -1,4 +1,4 @@
-package sampleCode.Parameters;
+//package sampleCode.Parameters;
 
 public class HellosWithParameters {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package sampleCode.Parameters;
+//package sampleCode.Parameters;
 
 public class Hello5and10Template {
 

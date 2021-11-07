@@ -1,4 +1,4 @@
-package sampleCode.Parameters;
+//package sampleCode.Parameters;
 
 public class HellosScope {
     public static void main(String[] args) {
