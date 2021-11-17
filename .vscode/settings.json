@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "studentWork/Parameters",
+        "sampleCode/Parameters",
+        "labs/RockPaperScissors"
+    ]
+}
